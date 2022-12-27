@@ -1,2 +1,2 @@
 # Prueba
-Repositorio de prueba
+Repositorio de prueba para aprender a realizar cambios y comentarlos
